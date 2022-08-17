@@ -4,7 +4,7 @@ Series of tests for blockchains, IDEs and ecosystems.
 
 ## revXT - WFGH CAPITAL
 
-Simple token based on OpenZepelin template and deployed on testnet.
+Simple token based on OpenZeppelin template and deployed on testnet.
 
 Blockchain: BSC Smart Chain
 IDE:        Remix Web (Latest BSC Studio AppImage doesn't run on Debian 10 VM)
