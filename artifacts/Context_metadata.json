@@ -1,0 +1,44 @@
+{
+	"compiler": {
+		"version": "0.5.16+commit.9c3226ce"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"payable": false,
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			}
+		],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"B20T-wfgh.sol": "Context"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"B20T-wfgh.sol": {
+			"keccak256": "0x9e9fa1ed365ca75effadca2bbf9d6e6aa2e038110b22dd382854f5e4ee4a9873",
+			"urls": [
+				"bzz-raw://cbcdf5d1c398817529e733b78056f0593f0dd56ffd69a4e7c8b8159244293ce0",
+				"dweb:/ipfs/QmTxnGLEekijpNHBh9xmdbYmmu5h34ZsGhuvGohHgnhJcW"
+			]
+		}
+	},
+	"version": 1
+}
